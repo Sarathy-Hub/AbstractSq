@@ -25,4 +25,6 @@ Abstract Sq is an innovative Natural Language Processing (NLP) model designed to
 1. Clone the repository:  
    ```bash  
    git clone https://github.com/Sarathy-Hub/AbstractSq.git  
-   cd abstract-sq  
+   cd abstract-sq
+
+Protected under MIT License
